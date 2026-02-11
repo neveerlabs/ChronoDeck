@@ -145,9 +145,9 @@ Dibangun dengan <strong>Three.js</strong>, <strong>Web Audio API</strong>, dan <
   <li>Responsif untuk semua perangkat</li>
 </ul>
 
-<h2>emo</h2>
+<h2>Demo</h2>
 <p>
-<a href="https://neveerlabs.github.io/ChronoDeck/">https://neverlabs.github.io/ChronoDeck/</a><br>
+<a href="https://neveerlabs.github.io/ChronoDeck/">https://neveerlabs.github.io/ChronoDeck/</a><br>
 Atau jalankan secara lokal dengan membuka <code>index.html</code>.
 </p>
 
