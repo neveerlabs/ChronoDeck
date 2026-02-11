@@ -11,9 +11,12 @@
 <p>
 ChronoDeck adalah website 3D interaktif dengan visual bulan fotorealistik dan bintang berkedip alami, dilengkapi sistem alarm otomatis untuk waktu sholat. Dirancang sebagai teman ngoding, istirahat, dan ibadah — tanpa meninggalkan suasana tenang.
 </p>
-<p>
-Dibangun dengan <strong>Three.js</strong>, <strong>Web Audio API</strong>, dan <strong>Aladhan Prayer API</strong>. 100% client-side, tanpa backend, tanpa pelacakan data.
-</p>
+<div align="center">
+![Static Badge](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+</div>
 
 <h2>Fitur Utama</h2>
 <ul>
