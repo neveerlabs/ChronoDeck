@@ -83,7 +83,7 @@ Semua file audio hanya diproses secara lokal di browser, tidak dikirim ke server
 - Widget jadwal sholat mingguan
 
 ---
-
+<div align="center">
 ## Lisensi
 
 MIT License
@@ -100,3 +100,4 @@ Neverlabs · 2026
 
 sesibuk sibuknya manusia, jangan pernah lupakan ibadah!
 See you...
+</div>
