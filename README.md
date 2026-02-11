@@ -62,23 +62,6 @@ Atau jalankan secara lokal dengan membuka index.html.
 
 Semua file audio hanya diproses secara lokal di browser, tidak dikirim ke server manapun.
 
----
-
-## Struktur File
-
-project/
-│
-├── index.html # halaman utama
-├── style.css # UI glassmorphism dan animasi
-├── script.js # Three.js, prayer API, audio engine
-│
-├── sound/ # folder suara (isi manual)
-│ ├── alarm.mp3 # suara alarm sebelum adzan
-│ └── adzan.mp3 # suara adzan
-└── favicon.png
-
----
-
 ## Catatan Penting
 
 - Browser membutuhkan interaksi pengguna pertama kali sebelum audio dapat diputar (kebijakan autoplay).
