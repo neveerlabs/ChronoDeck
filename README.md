@@ -18,10 +18,8 @@ ChronoDeck adalah website 3D interaktif dengan visual bulan fotorealistik dan bi
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-</div>
-
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square)
 ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-orange?style=flat-square)
+</div>
 
 <h2>Fitur Utama</h2>
 <ul>
