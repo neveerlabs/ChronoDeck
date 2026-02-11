@@ -11,6 +11,7 @@
 <p>
 ChronoDeck adalah website 3D interaktif dengan visual bulan fotorealistik dan bintang berkedip alami, dilengkapi sistem alarm otomatis untuk waktu sholat. Dirancang sebagai teman ngoding, istirahat, dan ibadah — tanpa meninggalkan suasana tenang.
 </p>
+
 <div align="center">
 ![Static Badge](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
