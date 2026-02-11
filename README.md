@@ -2,10 +2,9 @@
 <h1>ChronoDeck | v1.1.0</h1>
 <p style="font-size: 1.2rem; color: #cbd5e0;">3D interaktif · alarm adzan · musik lokal · bulan fotorealistik</p>
   
-![Static Badge](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Static Badge](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
 </div>
 
 <h2>Tentang Proyek</h2>
